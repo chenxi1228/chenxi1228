@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @chenxi1228
-- 👀 I’m interested in Data Analytics, Data Mining and Computer Vision.
-- 🌱 I’m currently an Eng.D. Candidate at Fudan University
-- 🚂 I’m advised by Professor Yun Xiong
+- Please check my homepage for more information: https://chenxi1228.github.io
 - 📫 x_chen21@m.fudan.edu.cn 📫 chenxi1228@foxmail.com
 
 <!---
